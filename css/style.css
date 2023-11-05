@@ -13,11 +13,6 @@ body{
     margin: 10%;
 }
 
-.main{
-
- 
-}
-
 .main h1 span{
     color: green;
     text-decoration: 2px underline;
@@ -46,16 +41,15 @@ body{
    position: relative;
    right: 40px;
    background-color:white;
-   /* outline: none;
-   border: none; */
+   outline: none;
+   border: none;
    font-size: 1.3rem;
 }
 
-/* .copy-elm:hover{
+.copy-elm:active{
     background-color: gray;
-    font-size: 1.5rem;
-    /* border-radius: 15px; */
-    /* border: 2px solid black; */
+    border-radius: 15px;
+}
     
 #generate{
     background-color: green;
